@@ -9,7 +9,7 @@ const Navbar = () => {
         setShow(true);
       } else setShow(false);
     });
-    console.log(show);
+   // console.log(show);
     return () => {
       window.removeEventListener("scroll");
     };
