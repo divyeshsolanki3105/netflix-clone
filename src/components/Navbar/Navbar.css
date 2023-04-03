@@ -15,12 +15,14 @@
   position: fixed;
   left: 20px;
   object-fit: contain;
+  cursor: pointer;
 }
 .nav__avatar {
   width: 30px;
   object-fit: contain;
   position: fixed;
   right: 20px;
+  cursor: pointer;
 }
 .nav__black {
   background-color: #111;
